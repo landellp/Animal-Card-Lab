@@ -1,0 +1,34 @@
+* {
+  font-family: sans-serif;
+}
+.Platypus_image {
+  width: 300px;
+  padding-bottom: 20px;
+}
+#interesting-fact {
+  font-style: italic;
+  }
+span {
+  font-weight: bold;
+}
+#facts {
+  list-style-type: none;
+}
+#container {
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 0 4px 8px 0 #ddd, 0 4px 8px 0 #ddd;
+  border-color: #afafaf;
+  padding: 10px;
+}
+.animal-info {
+  border-style: solid;
+  border-width: thin;
+  border-color: #afafaf;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+h1 {
+  padding-left: 1px;
+}
